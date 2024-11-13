@@ -1,7 +1,6 @@
 #Importar psycopg2
 import psycopg2
 
-
 try:
     #Realizar la conexión con la base de datos
     connection = psycopg2.connect(
