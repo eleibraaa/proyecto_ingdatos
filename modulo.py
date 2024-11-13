@@ -24,7 +24,7 @@ try:
     cns_country_operator_owner = 'select * from Country_operator_owner limit 10'
     cns_owner = 'select * from Owner limit 10'
     cns_register = 'select * from Register limit 10'
-    #PD: se puede correr sin el limit, sin embargo, ocupa mucho espacio, por motivos de practicidad y para primera entrega usaremos limit 50 para aprobar que funciona
+    #PD: se puede correr sin el limit, sin embargo, ocupa mucho espacio, por motivos de practicidad y para la segunda entrega usaremos limit 10 para probar que funciona las consultas
 
     #Cuerpo_celeste
     A = 'Tabla Cuerpo_celeste: id_cl, semimajorAxis, perihelion, aphelion, eccentricity, inclination, density, gravity, escape, meanRadius, EquaRadius, polarRadius, flattening, dimension, sideralOrbit, discoveryDate, orbitType, orbits, pTransit, transitVisibility, transitDepth, massJ, semimajorAxisAU'
