@@ -1,3 +1,5 @@
+--ATENCIÓN, puede necesitar cambiar las "," de los archivos csv por "." para que pueda correr las tablas y copy, puede que si o no.
+--TABLAS del proyecto ingenieria de datos
 create table Cuerpo_celeste(
 	id_cl varchar(3),
 	semimajorAxis numeric(20,6),
