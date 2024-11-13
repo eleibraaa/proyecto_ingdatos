@@ -1,0 +1,2 @@
+﻿id_t;semimajorAxis_t;perihelion_t;aphelion_t;eccentricity_t;inclination_t;density_t;gravity_t;escape_t;meanRadius_t;equaRadius_t;polarRadius_t;flattening_t;dimension_t;sideralOrbit_t;discoveryDate_t;orbitType_t;orbits_t;pTransit_t;transitVisibility_t;transitDepth_t;massJ_t;semimajorAxisAU_t
+253;149598262;147095000;152100000;0.0167;0;55.136;9.8;11190;6.378;63781366;6356.8;0.00335;;365.256;;Primary;Sun;0.004697334;0.845520127;0.0000837;0.000000000158;1000002616

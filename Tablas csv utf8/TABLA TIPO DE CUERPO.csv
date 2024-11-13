@@ -1,0 +1,266 @@
+﻿name;type;id_d
+Moon;Luna;1
+Phobos;Luna;2
+Deimos;Luna;3
+Io;Luna;4
+Europa;Luna;5
+Ganymede;Luna;6
+Callisto;Luna;7
+Amalthea;Luna;8
+Himalia;Luna;9
+Elara;Luna;10
+Pasiphae;Luna;11
+Sinope;Luna;12
+Lysithea;Luna;13
+Carme;Luna;14
+Ananke;Luna;15
+Leda;Luna;16
+Thebe;Luna;17
+Adrastea;Luna;18
+Metis;Luna;19
+Callirrhoe;Luna;20
+Themisto;Luna;21
+Megaclite;Luna;22
+Taygete;Luna;23
+Chaldene;Luna;24
+Harpalyke;Luna;25
+Kalyke;Luna;26
+Iocaste;Luna;27
+Erinome;Luna;28
+Isonoe;Luna;29
+Praxidike;Luna;30
+Autonoe;Luna;31
+Thyone;Luna;32
+Hermippe;Luna;33
+Aitne;Luna;34
+Eurydome;Luna;35
+Euanthe;Luna;36
+Euporie;Luna;37
+Orthosie;Luna;38
+Sponde;Luna;39
+Kale;Luna;40
+Pasithee;Luna;41
+Hegemone;Luna;42
+Mneme;Luna;43
+Aoede;Luna;44
+Thelxinoe;Luna;45
+Arche;Luna;46
+Kallichore;Luna;47
+Helike;Luna;48
+Carpo;Luna;49
+Eukelade;Luna;50
+Cyllene;Luna;51
+Kore;Luna;52
+Herse;Luna;53
+S/2003 J 2;Luna;54
+Eupheme;Luna;55
+S/2003 J 4;Luna;56
+Eirene;Luna;57
+S/2003 J 9;Luna;58
+S/2003 J 10;Luna;59
+S/2003 J 12;Luna;60
+Philophrosyne;Luna;61
+S/2003 J 16;Luna;62
+S/2003 J 18;Luna;63
+S/2003 J 19;Luna;64
+S/2003 J 23;Luna;65
+Mimas;Luna;66
+Enceladus;Luna;67
+Tethys;Luna;68
+Dione;Luna;69
+Rhea;Luna;70
+Titan;Luna;71
+Hyperion;Luna;72
+Iapetus;Luna;73
+Phoebe;Luna;74
+Janus;Luna;75
+Epimetheus;Luna;76
+Helene;Luna;77
+Telesto;Luna;78
+Calypso;Luna;79
+Atlas;Luna;80
+Prometheus;Luna;81
+Pandora;Luna;82
+Pan;Luna;83
+Ymir;Luna;84
+Paaliaq;Luna;85
+Tarvos;Luna;86
+Ijiraq;Luna;87
+Suttungr;Luna;88
+Kiviuq;Luna;89
+Mundilfari;Luna;90
+Albiorix;Luna;91
+Skathi;Luna;92
+Erriapus;Luna;93
+Siarnaq;Luna;94
+Thrymr;Luna;95
+Narvi;Luna;96
+Methone;Luna;97
+Pallene;Luna;98
+Polydeuces;Luna;99
+Daphnis;Luna;100
+Aegir;Luna;101
+Bebhionn;Luna;102
+Bergelmir;Luna;103
+Bestla;Luna;104
+Farbauti;Luna;105
+Fenrir;Luna;106
+Fornjot;Luna;107
+Hati;Luna;108
+Hyrrokkin;Luna;109
+Kari;Luna;110
+Loge;Luna;111
+Skoll;Luna;112
+Surtur;Luna;113
+Anthe;Luna;114
+Jarnsaxa;Luna;115
+Greip;Luna;116
+Tarqeq;Luna;117
+Aegaeon;Luna;118
+S/2004 S 7;Luna;119
+S/2004 S 12;Luna;120
+S/2004 S 13;Luna;121
+S/2004 S 17;Luna;122
+S/2006 S 1;Luna;123
+S/2006 S 3;Luna;124
+S/2007 S 2;Luna;125
+S/2007 S 3;Luna;126
+S/2009 S 1;Luna;127
+Ariel;Luna;128
+Umbriel;Luna;129
+Titania;Luna;130
+Oberon;Luna;131
+Miranda;Luna;132
+Cordelia;Luna;133
+Ophelia;Luna;134
+Bianca;Luna;135
+Cressida;Luna;136
+Desdemona;Luna;137
+Juliet;Luna;138
+Portia;Luna;139
+Rosalind;Luna;140
+Belinda;Luna;141
+Puck;Luna;142
+Caliban;Luna;143
+Sycorax;Luna;144
+Prospero;Luna;145
+Setebos;Luna;146
+Stephano;Luna;147
+Trinculo;Luna;148
+Francisco;Luna;149
+Margaret;Luna;150
+Ferdinand;Luna;151
+Perdita;Luna;152
+Mab;Luna;153
+Cupid;Luna;154
+Triton;Luna;155
+Nereid;Luna;156
+Naiad;Luna;157
+Thalassa;Luna;158
+Despina;Luna;159
+Galatea;Luna;160
+Larissa;Luna;161
+Proteus;Luna;162
+Halimede;Luna;163
+Psamathe;Luna;164
+Sao;Luna;165
+Laomedeia;Luna;166
+Neso;Luna;167
+Charon;Luna;168
+Nix;Luna;169
+Hydra;Luna;170
+Namaka;Luna;171
+HiÊ»iaka;Luna;172
+Dysnomia;Luna;173
+Dia;Luna;174
+S/2004 S 3;Luna;175
+S/2004 S 4;Luna;176
+S/2004 S 6;Luna;177
+S/2010 J 1;Luna;178
+S/2010 J 2;Luna;179
+6 Hebe;Asteroide;180
+47171 Lempo;Asteroide;181
+The Little Prince;Asteroide;182
+762 Pulcova;Asteroide;183
+4179 Toutatis;Asteroide;184
+50000 Quaoar;Cuerpo menor;185
+2867 Å teins;Cuerpo menor;186
+5 Astraea;Asteroide;187
+5145 Pholus;Cuerpo menor;188
+4769 Castalia;Asteroide;189
+Remus;Luna;190
+624 Hektor;Asteroide;191
+216 Kleopatra;Asteroide;192
+3753 Cruithne;Asteroide;193
+3 Junon;Asteroide;194
+10 Hygiea;Asteroide;195
+21 Lutetia;Asteroide;196
+253 Mathilde;Asteroide;197
+7 Iris;Asteroide;198
+433 Eros;Asteroide;199
+Vanth;Cuerpo menor;200
+90377 Sedna;Luna;201
+10199 Chariklo;Cuerpo menor;202
+87 Sylvia;Asteroide;203
+(243) Ida I Dactyl;Luna;204
+90482 Orcus;Cuerpo menor;205
+5335 Damocles;Cuerpo menor;206
+Romulus;Luna;207
+Alexhelios;Luna;208
+Cleoselene;Luna;209
+8 Flora;Asteroide;210
+2060 Chiron;Cuerpo menor;211
+5261 Eureka;Cuerpo menor;212
+588 Achilles;Cuerpo menor;213
+Weywot;Luna;214
+28978 Ixion;Cuerpo menor;215
+Shoemaker-Levy 9;Cometa;216
+9 Metis;Asteroide;217
+7066 Nessus;Cuerpo menor;218
+25143 Itokawa;Asteroide;219
+10370 Hylonome;Cuerpo menor;220
+45 Eugenia;Asteroide;221
+(308933) 2006 SQ372;Cuerpo menor;222
+2 Pallas;Asteroide;223
+8405 Asbolus;Cuerpo menor;224
+20000 Varuna;Cuerpo menor;225
+4 Vesta;Asteroide;226
+243 Ida;Asteroide;227
+Comet Hyakutake;Cometa;228
+951 Gaspra;Asteroide;229
+15760 Albion;Asteroide;230
+Halley's Comet;Cometa;231
+Sun;Estrella;232
+Kerberos;Luna;233
+S/2011 J 1;Luna;234
+S/2011 J 2;Luna;235
+Styx;Luna;236
+Hippocamp;Luna;237
+S/2015 (136472) 1;Luna;238
+S/2017 J 1;Luna;239
+S/2016 J 1;Luna;240
+Valetudo;Luna;241
+S/2017 J 2;Luna;242
+S/2017 J 3;Luna;243
+Pandia;Luna;244
+S/2017 J 5;Luna;245
+S/2017 J 6;Luna;246
+S/2017 J 7;Luna;247
+S/2017 J 8;Luna;248
+S/2017 J 9;Luna;249
+Ersa;Luna;250
+Ultima Thule;Cuerpo menor;251
+101955 Bennu;Asteroide;252
+Earth;Planeta;253
+Venus;Planeta;254
+Jupiter;Planeta;255
+Mars;Planeta;256
+Mercury;Planeta;257
+Saturn;Planeta;258
+136472 Makemake;Planeta enano;259
+136108 Haumea;Planeta enano;260
+Neptune;Planeta;261
+Pluto;Planeta enano;262
+Uranus;Planeta;263
+136199 Eris;Planeta enano;264
+1 Ceres;Planeta enano;265
